@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="social_media_integration_app">Social Media Integration App</string>
+    <string name="facebook_app_id">887726238474561</string>
+    <string name="fb_login_protocol_scheme">fb887726238474561</string>
+
+
+</resources>
